@@ -1,0 +1,13 @@
+.carousel-control-prev-icon{
+    height: 70px;
+    width: 50px;
+    background:url(./keyboard-right-arrow-button\ -\ Copy.png) no-repeat;
+}
+.carousel-control-next-icon {
+    height: 70px;
+    width: 50px;
+    background:url(./keyboard-right-arrow-button.png) no-repeat;
+}
+.carousel-control-prev,.carousel-control-next{
+    width:10%;
+}

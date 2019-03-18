@@ -1,0 +1,9 @@
+#footerlist{
+    color:white;
+}
+
+#footerlist li{
+    padding:0vw 1.2vw;
+    display:inline-block;
+    font-size:1.3vw;
+}

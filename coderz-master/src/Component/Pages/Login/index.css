@@ -1,0 +1,14 @@
+
+
+#lgbg{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background:url('../../../images/hd-wallpaper-macro-splash-67843.jpg') no-repeat;
+    background-size:cover;
+}
+#back:focus{
+    outline:none;
+}

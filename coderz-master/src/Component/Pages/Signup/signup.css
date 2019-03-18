@@ -1,0 +1,8 @@
+#regbg{
+    position:absolute;
+    width:100%;
+    height:100%;
+    background:url('../../../images/Website-Design-Background.png') no-repeat;
+    background-size:cover;
+    background-position: center;
+}

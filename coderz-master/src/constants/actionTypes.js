@@ -1,0 +1,7 @@
+export const GET_USER = "GET_USER";
+export const UPDATE_USER = "UPDATE_USER";
+export const DELETE_USER = "DELETE_USER";
+export const ADD_INPUT = "ADD_INPUT";
+export const GET_GROUND_WATER_PREDICTED_VALUE =
+  "GET_GROUND_WATER_PREDICTED_VALUE";
+export const GET_DEPTH_VALUE = "GET_DEPTH_VALUE";

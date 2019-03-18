@@ -1,0 +1,18 @@
+#andha{
+    position: absolute;
+    visibility:hidden;
+}
+#dad{
+    overflow:hidden;
+}
+#dad:hover>#andha{
+    z-index:5000;
+    visibility:visible;
+    
+    background-color: gray;
+    background-color: gray;
+}
+#andha:hover{
+    z-index:5000;
+    visibility:visible
+}

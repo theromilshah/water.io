@@ -1,0 +1,27 @@
+.proj{
+    overflow: hidden;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding:10px;
+}
+.proj:hover{
+    background-color:#eee;
+    cursor:pointer;
+}
+
+.proj_head{
+    padding-left:40vw;
+}
+.proj_head h3{
+    font-size:2vw;
+    margin-bottom:0.2vw;
+}
+.proj_head h4{
+    font-size:1.5vw;
+}
+.proj_head p{
+    font-size:1.2vw;
+}
+.proj_head a{
+    font-size:1.2vw;
+}
