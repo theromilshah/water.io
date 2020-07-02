@@ -1,4 +1,13 @@
-# Water.io
+## Table of Content:
+- [Table of Content:](#table-of-content)
+- [Water.io](#waterio)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Machine Learning ReadME.md](#machine-learning-readmemd)
+- [Built With](#built-with)
+- [Authors](#authors)
+
+## Water.io
 
 A MERN stack based webapp to help the farmers and government officials decide on irrigation facilities based on the ground water level predictions. The ground water level forecasting was done using Time Series Analysis in Python, with the final model running at an accuracy of 90%. Along with the groundwater level forecasting, other factors like number of active tubewells were also predicted.
 
@@ -6,7 +15,7 @@ A MERN stack based webapp to help the farmers and government officials decide on
 
 You'll need to have [node.js](https://nodejs.org/en/) and [yarn](https://classic.yarnpkg.com/en/docs/install/) installed on your system. Once you have those installed on your system, clone this repository and run yarn install to install all the dependencies. Once the installation finishes, run yarn run to start the project.
 
-### Prerequisites
+## Prerequisites
 
 Check whether node.js is installed on your system.
 ```
@@ -17,7 +26,9 @@ Check whether yarn is installed on your system.
 yarn --version
 ```
 
-### Built With
+## [Machine Learning ReadME.md](ML-Predictions/ReadME.md)
+
+## Built With
 
 * [React JS](https://reactjs.org/)
 * [Node JS](https://nodejs.org/en/) 
